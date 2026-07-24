@@ -3,9 +3,9 @@ requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "selfie-agent"
+name = "latentAgent2AgentComm"
 version = "0.1.0"
-description = "Lightweight hidden-state interpretation utilities for causal LMs."
+description = "Latent agent-to-agent communication utilities built on SelfIE-style hidden-state injection."
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
